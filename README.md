@@ -1,1 +1,1 @@
-# Mni-project--sem-2
+# Mini-project--sem-2
